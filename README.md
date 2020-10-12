@@ -74,7 +74,7 @@ In this case, double-check your wiring and your camcorder.
 
 ## Closing remarks
 
-I successfully used above pinouts with this code to enable DV-In on both a DCR-TRV 120E and a DCR-TRV 210E (the latter one doesn't support Analog to DV pass-through but only recording digitized analog signals to Digital8 tape).
+I successfully used above pinouts with this code to enable DV-In on a DCR-TRV 120E, a DCR-TRV 230E and a DCR-TRV 210E (the latter one doesn't support Analog to DV pass-through but only recording digitized analog signals to Digital8 tape).
 
 However, your mileage may vary and I neither take any responsibility nor give warranty of any kind.
 The schematics and code worked for me and my setup.
